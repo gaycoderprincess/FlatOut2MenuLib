@@ -1,0 +1,1 @@
+Default menu style for my FlatOut 2 menu library
