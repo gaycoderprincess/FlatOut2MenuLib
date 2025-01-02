@@ -2,7 +2,7 @@
 
 A shared library for FlatOut 2 in order to have multiple plugins' configurations in one global menu
 
-![preview image](https://i.imgur.com/VPZGiEA.png)
+![preview image](https://i.imgur.com/doTctbl.png)
 
 ## Installation
 
